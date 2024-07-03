@@ -1,8 +1,6 @@
 
 @charset "UTF-8";
 
-
-
 :root {
     --cor0: rgb(247, 0, 165);
     --cor1: rgba(153, 22, 90, 1);
@@ -57,17 +55,12 @@ nav {
 }
 
 
-
-
-
 .nav-itens a {
     color: aliceblue;
     text-decoration: none;
     display: inline;
-    padding: 20px;
+    padding: 7px;
 
-    
- 
 }
 
 a{
@@ -97,9 +90,6 @@ h2{
     text-align: center;
 }
       
-
-
-
 p{
      margin-top: 20px;
      font-size: 16px;
